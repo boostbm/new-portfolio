@@ -1,9 +1,13 @@
 import "./App.css"
+import Navbar from "./components/Navbar"
+import HeroSection from "./components/HeroSection"
+import { Nav } from "react-bootstrap"
 
 function App() {
   return (
     <div className="App">
-      <h1>START DOING SHIT. STOP FUCKING AROUND ALRIGHT PLEASE.</h1>
+      <Navbar />
+      <HeroSection />
     </div>
   )
 }

@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+h1 {
+  font-size: 200px;
+  font-family: 'Caudex', serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100px 0 0 0;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+p {
+  font-size: 30px;
+  font-family: serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
