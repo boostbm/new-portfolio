@@ -7,7 +7,7 @@ function HeroSection() {
     <div className="container">
       <Fade>
         <h1>DAVID YU</h1>
-        <p>WEB DEVELOPER / B-BOY / JIU JITSU PRACTICTIONER</p>
+        <p>FRONT-END DEVELOPER / B-BOY / JIU JITSU PRACTICTIONER</p>
       </Fade>
     </div>
   )

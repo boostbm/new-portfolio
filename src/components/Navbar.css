@@ -9,7 +9,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Epilogue', sans-serif;
 }
 
 li {
@@ -63,6 +63,7 @@ a {
 @media screen and (max-width: 768px) {
   .nav__toggler {
     display: block;
+    
   }
   .nav__menu {
     position: fixed;
@@ -74,12 +75,15 @@ a {
     flex-direction: column;
     transform: translateX(100%);
     transition: 0.4s ease-in;
+    z-index: 1;
+    
   }
 }
 
 /* Nav Active Class */
 .nav__active {
   transform: translateX(0);
+  
 }
 
 
