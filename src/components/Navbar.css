@@ -33,9 +33,8 @@ a {
 
 .nav__brand {
   text-transform: uppercase;
-  font-weight: bold;
   font-family: 'Caudex', serif;
-  font-size: 25px;
+  font-size: 26px;
   
 }
 
@@ -76,7 +75,6 @@ a {
     transform: translateX(100%);
     transition: 0.4s ease-in;
     z-index: 1;
-    
   }
 }
 
