@@ -6,8 +6,13 @@ function HeroSection() {
   return (
     <div className="container">
       <Fade>
-        <h1>DAVID YU</h1>
-        <p>FRONT-END DEVELOPER / B-BOY / JIU JITSU PRACTICTIONER</p>
+        <h1 className="hero_h1">DAVID YU</h1>
+        <p className="hero_p">
+          FRONT-END DEVELOPER / B-BOY / JIU JITSU PRACTICTIONER
+        </p>
+        <div className="hero_button">
+          <button>Learn More</button>
+        </div>
       </Fade>
     </div>
   )

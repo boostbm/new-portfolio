@@ -1,23 +1,31 @@
-h1 {
+.container {
+  background: url(../heroimg.jpg) ;
+}
+
+.hero_h1 {
   font-size: 200px;
   font-family: 'Caudex', serif;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 200px 0 0 0;
+  margin: 100px;
+  
+
 }
-
-
-p {
+.hero_p {
   font-size: 30px;
   font-family: 'Epilogue', sans-serif;
   display: flex;
   align-items: center;
+  justify-content: center; 
+}
+
+.hero_button {
+  display: flex;
+  align-items: center;
   justify-content: center;
-  
 }
 
 hr {
   border: 1px solid black;
 }
-
