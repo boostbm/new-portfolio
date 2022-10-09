@@ -5,8 +5,8 @@ html {
 }
 
 body {
-  font-size: 1.6rem;
-  font-family: 'Epilogue', sans-serif;
+  font-size: 1.5rem;
+  font-family: Arial, sans-serif;
 }
 
 li {
@@ -15,7 +15,7 @@ li {
 
 a {
   text-decoration: none;
-  color: black;
+  color: #131313;
 }
 
 

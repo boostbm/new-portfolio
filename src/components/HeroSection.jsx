@@ -6,7 +6,9 @@ function HeroSection() {
   return (
     <div className="container">
       <Fade>
-        <h1 className="hero_h1">DAVID YU</h1>
+        <div className="heading_1">
+          <h1 className="hero_h1">DAVID YU</h1>
+        </div>
         <p className="hero_p">
           FRONT-END DEVELOPER / B-BOY / JIU JITSU PRACTICTIONER
         </p>
