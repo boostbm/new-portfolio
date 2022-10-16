@@ -27,7 +27,7 @@ a {
   align-items: center;
   justify-content: space-around;
   height: 8vh;
-  background: white;
+  background: rgb(236, 222, 222);
   text-transform: uppercase;
 }
 
